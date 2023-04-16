@@ -29,3 +29,6 @@ T_Zebra_OcclusionRoughnessMetallic.uasset filter=lfs diff=lfs merge=lfs -text
 T_Zebra_Specular.uasset filter=lfs diff=lfs merge=lfs -text
 T_Zebra_Transparency.uasset filter=lfs diff=lfs merge=lfs -text
 T_Zebra_BaseColor.uasset filter=lfs diff=lfs merge=lfs -text
+Stage01_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Stage02_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Stage03_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
